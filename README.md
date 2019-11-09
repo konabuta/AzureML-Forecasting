@@ -8,8 +8,7 @@ Azure Machine Learning における時系列予測のワークショップのコ
 - [3. 自動ハイパーパラメータチューニング Hyperdrive による LSTM モデルのチューニング](notebooks/predictive-maintenance)
 
 
-## Coming sonn ... 
+## Coming soon ... 
 - Optuna による HPO
 - Neural Network Intelligence による HPO
-- 状態空間モデルによる時系列予測
 - 時系列クラスタリング
