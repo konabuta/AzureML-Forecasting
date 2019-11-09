@@ -5,10 +5,10 @@ Azure Machine Learning における時系列予測のワークショップのコ
 - [0. 環境準備](./setup-env)
 - [1. 状態空間モデル](notebooks/ssm-airpassenger)
 - [2. 自動機械学習 Automtaed ML による時系列予測](notebooks/forecasting-energy-demand)
-- [3. 自動ハイパーパラメータチューニング Hyperdrive による LSTM モデルのチューニング](notebooks/deep-predictive-maintenance)
-s
+- [3. 自動ハイパーパラメータチューニング Hyperdrive による LSTM モデルのチューニング](notebooks/predictive-maintenance)
 
-## Other
+
+## Coming sonn ... 
 - Optuna による HPO
 - Neural Network Intelligence による HPO
 - 状態空間モデルによる時系列予測
