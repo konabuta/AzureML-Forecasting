@@ -1,4 +1,4 @@
-# Azure Machine Learning TimeS eries Analytics Workshop
+# Azure Machine Learning Forecasting Workshop
 
 Azure Machine Learning における時系列予測のワークショップのコード集です。
 
